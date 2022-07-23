@@ -7,7 +7,7 @@ import {
   CircleWavyCheck,
   Hourglass,
   DesktopTower,
-  Clipboard,
+  ClipboardText,
 } from "phosphor-react-native";
 
 import { Header } from "../components/Header";
@@ -147,7 +147,7 @@ export function Details() {
         <CardDetails
           title="Descrição do problema"
           description={order.description}
-          icon={Clipboard}
+          icon={ClipboardText}
 		  footer={`Registrado em ${order.created_at}`}
         />
 
