@@ -141,14 +141,14 @@ export function Details() {
         <CardDetails
           title="Equipamento"
           description={`Patrimônio ${order.patrimony}`}
-          icon={DesktopTower}
-          footer={order.created_at}
+          icon={DesktopTower}          
         />
 
         <CardDetails
           title="Descrição do problema"
           description={order.description}
           icon={Clipboard}
+		  footer={`Registrado em ${order.created_at}`}
         />
 
         <CardDetails
