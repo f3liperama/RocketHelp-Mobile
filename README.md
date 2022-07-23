@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="RocketHelp" src=".github/BG_Letmeask.png" width="100%">
+  <img alt="RocketHelp" src="./Capa_RocketHelp.png" width="100%">
 </p>
 
 ## Tecnologias
