@@ -30,7 +30,7 @@ O RocketHelp é uma aplicação que helpdesk, onde os usuários reportam visitas
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/community/file/1130846653327904117)
+- [Layout Mobile](https://www.figma.com/community/file/1130846653327904117)
 
 ---
 
